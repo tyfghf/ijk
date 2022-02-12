@@ -1,0 +1,19 @@
+.color_red {
+	background: rgba(200,50,50,0.3);
+}
+.color_green {
+	background: rgba(50,200,50,0.3);
+}
+.midi_white_up {
+	background: rgba(255,255,255,1.0);
+}
+.midi_black_up {
+	background: rgba(0,0,0,1.0);
+}
+.midi_octave_up {
+	background: rgba(127,127,127,1.0);
+}
+.midi_down {
+	background: rgba(255,255,0,1.0);
+}
+
